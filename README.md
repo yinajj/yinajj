@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yinajj
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Javascript, C++, etc..
 - 💞️ I’m looking to collaborate on any sort of project
 - 📫 How to reach me on Instagram - @yinaaa_____
 
